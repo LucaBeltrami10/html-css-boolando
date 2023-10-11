@@ -13,6 +13,11 @@ header{
     color: white;
 }
 /* main */
+main div.container{
+    background-color: aquamarine;
+    margin: 0 auto;
+    height: 1000px;
+}
 /* footer */
 
 /* classi generiche */
@@ -33,6 +38,10 @@ header{
     display: flex;
     justify-content: space-between;
 }
+.flex-wrap{
+    display: flex;
+    flex-wrap: wrap;
+}
 .container{
     width: 70%;
 }
@@ -41,4 +50,9 @@ header ul{
     list-style-type: none;
 }
 /* main */
+.item{
+    width: calc(100% / 3);
+    height: 400px;
+    background-color: lightsalmon;
+}
 /* footer */
