@@ -113,25 +113,40 @@ section.pictures-mauro:hover{
     background-size: contain;
     background-repeat: no-repeat;
 }
+section.pictures-maria:hover{
+    background-image: url(../img/2b.webp);
+}
 .pictures-roberta{
     background-image: url(../img/3.webp);
     background-size: contain;
     background-repeat: no-repeat;
+}
+section.pictures-roberta:hover{
+    background-image: url(../img/3b.webp);
 }
 .pictures-ornello{
     background-image: url(../img/4.webp);
     background-size: contain;
     background-repeat: no-repeat;
 }
+section.pictures-ornello:hover{
+    background-image: url(../img/4b.webp);
+}
 .pictures-cristiana{
     background-image: url(../img/5.webp);
     background-size: contain;
     background-repeat: no-repeat;
 }
+section.pictures-cristiana:hover{
+    background-image: url(../img/5b.webp);
+}
 .pictures-gina{
     background-image: url(../img/6.webp);
     background-size: contain;
     background-repeat: no-repeat;
+}
+section.pictures-gina:hover{
+    background-image: url(../img/6b.webp);
 }
 main div.container{
     padding: 1rem 0;
