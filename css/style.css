@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* classi specifiche */
+
+/* header */
+header{
+    background-color: #ff6900;
+    height: 50px;
+    color: white;
+}
+/* main */
+/* footer */
+
+/* classi generiche */
+.flex-ja-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-j-center{
+    display: flex;
+    justify-content: center;
+}
+.flex-a-center{
+    display: flex;
+    align-items: center;
+}
+.flex-j-space-between{
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    width: 70%;
+}
+/* header */
+header ul{
+    list-style-type: none;
+}
+/* main */
+/* footer */
